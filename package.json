@@ -1,7 +1,7 @@
 {
-  "name": "cypress-test-tiny",
+  "name": "cypress-test-tiny-ajax-html",
   "version": "1.0.0",
-  "description": "Small project for quickly testing Cypress.io test runner",
+  "description": "Demo of cy.route issue 'No request ever occurred'",
   "scripts": {
     "cypress:run": "cypress run",
     "cypress:open": "cypress open",
@@ -21,8 +21,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/cypress-io/cypress-test-tiny.git"
-  },
-  "scripts": {
-    "cypress:open": "cypress open"
   }
 }
